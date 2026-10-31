@@ -10,7 +10,7 @@ The benchmark dataset (GeoFair-Building v1.0) used in this paper is available at
 
 ## 📂 Repository Structure
 - `dfm/data_layer/`: Correlation analysis, stratified sampling, and label quality.
-- `dfm/feature_layer/`: SHAP, t-SNE/UMAP, Geo-Grad-CAM, and CAV.
+- `dfm/feature_layer/`: SHAP, t-SNE/UMAP, Prediction Error Mapping.
 - `dfm/model_layer/`: Cross-architecture comparison, loss-surface, and decision-boundary.
 - `dfm/fusion/`: Three-layer variance decomposition and MGWR.
 - `dfm/causal/`: ATE/CATE estimation and counterfactual testing.
